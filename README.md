@@ -114,3 +114,22 @@ Created mostly for exploring different character concepts with a focus on drawin
 ## 25 DucHaitenAIart
 v3.1 is able to receive more diverse, more detailed prompts with gorgeous colors and more realistic shadows. The image has the breath of 3D anime, but the material is much more realistic. The weak point is that some celebrity images are no longer in the model, a bit too 3d anime might make some people dislike, the image of the teeth is a bit lacking in detail.
 
+## 26 elldreths_lucid_mix
+This mixed model is a combination of my all-time favorites AND new-found favorite, Dreamlike (thanks to JustMaier for the heads-up). A genuine simple mix of a very popular anime model and the powerful and Zeipher's fantastic f222 mixed in with Dreamlike (minus sd1.5).
+
+## 27 experience_webui
+Includes Noise Offset training
+Darker images
+Improved contrast
+Read more here - https://www.crosslabs.org/blog/diffusion-with-offset-noise
+Best for cinematic/dramatic generations.
+Is capable of very high fidelity generations
+
+## 28 faetastic_v1
+The model is also extremely versatile, it can do beautiful landscapes, excels at semi-realistic characters, can do anime styles if you prompt it to (you need to weight anime tags though), can do NSFW, works beautifully with embeddings and LORAs and also has the fantastic noise offset built in to produce rich dark beautiful images, if you ask it to!
+
+## 29 fantasy_world_v1_
+Original Model Dpepteahand3. Finetuned on some Concept Artists.
+
+## 30 hasdx
+merged a few checkpoints and got something buttery and amazing. Does great with things other then people too. It can do anything really. It doesn't need crazy prompts either. Keep it simple. No need for all the artist names and trending on whatever.
