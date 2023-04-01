@@ -148,3 +148,19 @@ Extremely NSFW biased model!!! But awesome at SFW too. Use it at your own risk o
 
 ## 35 magical_mix
 This model features an artistic and matte paint illust.
+
+## 36 mo_di_diffusion
+This is the fine-tuned Stable Diffusion 1.5 model trained on screenshots from a popular animation studio. Use the tokens modern disney style in your prompts for the effect.
+
+## 37 padoru
+A fined-tuned stable diffusion model for generating Padorus.
+
+## 38 protogen_x3
+Protogen was warm-started with Stable Diffusion v1-5 and fine-tuned on various high quality image datasets
+
+## 39 PVC
+The PVC figure style is closer to the anime style than to the realistic style.
+So, it is recommended to put anime to positive prompt or realistic to negative prompt to get better results sometimes. If you want to avoid too realistic faces, try this!
+
+## 40 samdoesart
+Original artwork and all credits go to Sam Yang (samdoesarts) 🎨
