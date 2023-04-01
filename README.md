@@ -194,3 +194,12 @@ Riffusion is an app for real-time music generation with stable diffusion.
 
 ## 50 realbiter
 This blend model aims to achieve versatility in generating images that are almost realistic but with a touch of fantasy and a polished aesthetic. It performs well with both illustrations and simulated photographs, but it particularly excels with the latter.
+
+## 51 neverending_dream
+make good anime stuff out of the box, without needing an additional LoRA.
+
+## 52 mousey_mix
+overfit merged lora model
+
+## 53 meina_mix
+MeinaMix objetive is to be able to do good art with little prompting.
