@@ -92,3 +92,25 @@ ControlNet is a neural network structure to control diffusion models by adding e
 ## 20 counterfeit_v2_0
 Counterfeit is anime style Stable Diffusion model.
 DreamBooth + Merge Block Weights + Merge LoRA
+
+## 21 Defmix-v2.0 
+a model that merges the following models by adjusting the weights of each layer in U-Net.
+
+Counterfeit v2.5
+Basil Mix
+Abyss Orange Mix v3.0 A2
+
+## 22 deliberate_webu
+This model provides you the ability to create anything you want. The more power of prompt knowledges you have, the better results you'll get. It basically means that you'll never get a perfect result with just a few words. You have to fill out your prompt line extremely detailed.
+
+## 23 dosmix_webui
+Alternative use of ClipSkip 1 or 2
+
+## 24 dream_like_sam_kuvshino
+A mixture of Dreamlike Diffusion 1.0, SamDoesArt V3 and Kuvshinov style models.
+
+Created mostly for exploring different character concepts with a focus on drawings, but the mix happened to be pretty good at realistic-ish images, all thanks to wonderful models that it uses.
+
+## 25 DucHaitenAIart
+v3.1 is able to receive more diverse, more detailed prompts with gorgeous colors and more realistic shadows. The image has the breath of 3D anime, but the material is much more realistic. The weak point is that some celebrity images are no longer in the model, a bit too 3d anime might make some people dislike, the image of the teeth is a bit lacking in detail.
+
