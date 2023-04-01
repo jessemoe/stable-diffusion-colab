@@ -133,3 +133,18 @@ Original Model Dpepteahand3. Finetuned on some Concept Artists.
 
 ## 30 hasdx
 merged a few checkpoints and got something buttery and amazing. Does great with things other then people too. It can do anything really. It doesn't need crazy prompts either. Keep it simple. No need for all the artist names and trending on whatever.
+
+## 31 hassan_blend
+NSFW
+
+## 32 izumi
+Generate beautiful Asian girls, NSFW.
+
+## 33 knollingcase
+The images on the following imgur link were all made just using 'knollingcase' as the main prompt
+
+## 34 liberty stable diffusion
+Extremely NSFW biased model!!! But awesome at SFW too. Use it at your own risk of getting unprompted explicit images.
+
+## 35 magical_mix
+This model features an artistic and matte paint illust.
