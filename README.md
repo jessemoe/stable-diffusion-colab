@@ -57,7 +57,7 @@ This model has been trained from runwayml/stable-diffusion-v1-5 for approximatel
 两个二次元模型
 
 ## 14 chillout_mix
-Asia
+Asia SFW
 
 ## 15 cinematic_diffusion
 It has been trained using Stable Diffusion 1.5 to generate cinematic images. To utilize it, you must include the keyword "syberart" at the beginning of your prompt.
