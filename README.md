@@ -164,3 +164,18 @@ So, it is recommended to put anime to positive prompt or realistic to negative p
 
 ## 40 samdoesart
 Original artwork and all credits go to Sam Yang (samdoesarts) 🎨
+
+## 41 vinte_protogen
+this model makes a colorful pictures. crisp sharp colors, character also looks very nice.
+
+## 42 yiffy_e18
+furry 
+
+## 43 yohan_diffusion
+a latent diffusion model that has been trained on a Japanese artist's artworks, yohan1754/Free Style.
+
+## 44 vovx
+This model can generate vtubers for Hololive and Nijisanji. Some vtubers may or may not come out well. It is recommended to give the name a weight of about 1.2 (e.g. (ange katrina:1.2))
+
+## 45 stablydiffuseds_aesthetic_mix
+This is a mix of some of my favorite models to create something that captures the aesthetic I like but also without sacrificing NSFW capabilities. 
