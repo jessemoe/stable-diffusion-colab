@@ -46,3 +46,18 @@ Note that using blur and haze in your negative prompt can give a sharper image b
 
 ## 10 arcane_diffusion_3_webui
 This is the fine-tuned Stable Diffusion model trained on images from the TV Show Arcane. Use the tokens arcane style in your prompts for the effect.
+
+## 11 babes blend webui
+This model was inspired by SamDoesSexy Blend. Influenced by: SDHero-Bimbo-Bondage, Pit Bimbo, Analog Diffusion, Dreamlike Diffusion, Redshift Diffusion. Core influence: MidJourney v4, Studio Ghibli, CopeSeetheMald v2, F222, SXD 0.8.
+
+## 12 cafe_instagram_v6_webui
+This model has been trained from runwayml/stable-diffusion-v1-5 for approximately 1.6 epochs on 1.2m images total from various Instagram accounts (primarily Japanese). 
+
+## 13 cetus_mix_v3_1 & berry mix 1 5 
+两个二次元模型
+
+## 14 chillout_mix
+Asia
+
+## 15 cinematic_diffusion
+It has been trained using Stable Diffusion 1.5 to generate cinematic images. To utilize it, you must include the keyword "syberart" at the beginning of your prompt.
