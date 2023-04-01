@@ -179,3 +179,18 @@ This model can generate vtubers for Hololive and Nijisanji. Some vtubers may or 
 
 ## 45 stablydiffuseds_aesthetic_mix
 This is a mix of some of my favorite models to create something that captures the aesthetic I like but also without sacrificing NSFW capabilities. 
+
+# 46 simpmaker_3k
+3K, tends to do more realism, and less fantasy/art. 3k3 is the most influenced by digital art and anime, etc. And 3k1 is my personal favourite balance.
+
+## 47 seek_art_mega
+This model was trained on nearly 10k high-quality public domain digital artworks with the goal of improving output quality across the board. We find the model to be highly flexible in its ability to mix various styles, subjects, and details. We recommend resolutions above 640px in one or both dimensions for best results.
+
+## 48 riffusion_v1
+Riffusion is an app for real-time music generation with stable diffusion.
+
+## 49 refslave_v2
+ a merge of anime diffusion models with the goal of producing vibrant and detailed, yet painterly images by maintaining a subtle impressionistic quality. Supports Danbooru tags within prompts.
+
+## 50 realbiter
+This blend model aims to achieve versatility in generating images that are almost realistic but with a touch of fantasy and a polished aesthetic. It performs well with both illustrations and simulated photographs, but it particularly excels with the latter.
