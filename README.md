@@ -61,3 +61,34 @@ Asia
 
 ## 15 cinematic_diffusion
 It has been trained using Stable Diffusion 1.5 to generate cinematic images. To utilize it, you must include the keyword "syberart" at the beginning of your prompt.
+
+## 16 color_bomb_mix
+ColorBomb : FaceBomb + vivid color and lighting. A bit picky of prompts.
+
+More info : https://huggingface.co/mocker/KaBoom
+
+## 17 comic_diffusion_v2
+The tokens for V2 are -
+
+charliebo artstyle
+holliemengert artstyle
+marioalberti artstyle
+pepelarraz artstyle
+andreasrocha artstyle
+jamesdaly artstyle
+
+## 18 complex_lineart_webui
+https://huggingface.co/Conflictx/Complex-Lineart
+
+Model was trained on 768x768 images, so keep the resolution at that when generating.
+
+Prompt is ComplexLA style. I usually add "high resolution, very detailed, greeble, intricate" to the prompt as well.
+
+Works great for large structures, scifi stations and anything imposing.
+
+## 19 control_net_webui
+ControlNet is a neural network structure to control diffusion models by adding extra conditions.
+
+## 20 counterfeit_v2_0
+Counterfeit is anime style Stable Diffusion model.
+DreamBooth + Merge Block Weights + Merge LoRA
