@@ -135,7 +135,7 @@ Original Model Dpepteahand3. Finetuned on some Concept Artists.
 merged a few checkpoints and got something buttery and amazing. Does great with things other then people too. It can do anything really. It doesn't need crazy prompts either. Keep it simple. No need for all the artist names and trending on whatever.
 
 ## 31 hassan_blend
-NSFW
+Europe and America NSFW
 
 ## 32 izumi
 Generate beautiful Asian girls, NSFW.
